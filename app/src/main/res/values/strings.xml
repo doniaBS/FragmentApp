@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt1">fragment 1</string>
+    <string name="txt2">fragment 2</string>
+    <string name="longtext">welcome to our mobile application we are happy to see you again</string>
+    <string name="welcome">welcome</string>
+
+</resources>
